@@ -1,0 +1,232 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "2",
+                        "startOffsets": "214",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "669,737",
+                        "endColumns": "67,67",
+                        "endOffsets": "732,800"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,67",
+                        "endOffsets": "118,186"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "634",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "874"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "946,1029,1079",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "1024,1074,1158"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,22,21,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "705,774,897,836,660",
+                        "endColumns": "68,61,58,60,44",
+                        "endOffsets": "769,831,951,892,700"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "650,719,781,840,901",
+                        "endColumns": "68,61,58,60,44",
+                        "endOffsets": "714,776,835,896,941"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1214",
+                        "endColumns": "94",
+                        "endOffsets": "1304"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "19,21,22,23,24,28",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1163,1309,1369,1422,1449,1645",
+                        "endLines": "19,21,22,23,27,33",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1209,1364,1417,1444,1640,1918"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values-v21/base-template-styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "690",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "766"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "131"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "7,19,11",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "210,763,340",
+                        "endLines": "9,21,17",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "336,927,759"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,186,355",
+                        "endLines": "4,7,14",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "181,350,774"
+                    }
+                },
+                {
+                    "source": "/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/res/values-v11/template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "663",
+                        "endColumns": "65",
+                        "endOffsets": "724"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "779",
+                        "endColumns": "64",
+                        "endOffsets": "839"
+                    }
+                }
+            ]
+        }
+    ]
+}
