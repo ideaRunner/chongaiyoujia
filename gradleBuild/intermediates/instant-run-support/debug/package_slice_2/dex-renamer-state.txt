@@ -1,4 +1,0 @@
-#Mon May 21 16:01:30 CST 2018
-base.0=/Users/bin_zhang/Development/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dexMerger/debug/21
-path.0=classes.dex
-renamed.0=classes.dex

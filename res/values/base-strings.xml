@@ -16,9 +16,9 @@
 -->
 
 <resources>
-    <string name="app_name">AI Demo</string>
+    <string name="app_name">宠爱有家</string>
     <string name="activity_name_classification">AI Classify</string>
-    <string name="activity_name_detection">AI Detect</string>
+    <string name="activity_name_detection">宠爱有家</string>
     <string name="activity_name_stylize">AI Stylize</string>
     <string name="activity_name_speech">AI Speech</string>
 </resources>
