@@ -34,7 +34,7 @@ public class TensorFlowYoloDetector implements Classifier {
   // Only return this many results with at least this confidence.
   private static final int MAX_RESULTS = 5;
 
-  private static final int NUM_CLASSES = 20;
+  private static final int NUM_CLASSES = 37;
 
   private static final int NUM_BOXES_PER_BLOCK = 5;
 
@@ -49,26 +49,43 @@ public class TensorFlowYoloDetector implements Classifier {
   };
 
   private static final String[] LABELS = {
-    "aeroplane",
-    "bicycle",
-    "bird",
-    "boat",
-    "bottle",
-    "bus",
-    "car",
-    "cat",
-    "chair",
-    "cow",
-    "diningtable",
-    "dog",
-    "horse",
-    "motorbike",
-    "person",
-    "pottedplant",
-    "sheep",
-    "sofa",
-    "train",
-    "tvmonitor"
+          "Abyssinian",
+          "Bengal",
+          "Birman",
+          "Bombay",
+          "British_Shorthair",
+          "Egyptian_Mau",
+          "Maine_Coon",
+          "Persian",
+          "Ragdoll",
+          "Russian_Blue",
+          "Siamese",
+          "Sphynx",
+          "american_bulldog",
+          "american_pit_bull_terrier",
+          "basset_hound",
+          "beagle",
+          "boxer",
+          "chihuahua",
+          "english_cocker_spaniel",
+          "english_setter",
+          "german_shorthaired",
+          "great_pyrenees",
+          "havanese",
+          "japanese_chin",
+          "keeshond",
+          "leonberger",
+          "miniature_pinscher",
+          "newfoundland",
+          "pomeranian",
+          "pug",
+          "saint_bernard",
+          "samoyed",
+          "scottish_terrier",
+          "shiba_inu",
+          "staffordshire_bull_terrier",
+          "wheaten_terrier",
+          "yorkshire_terrier"
   };
 
   // Config values.
