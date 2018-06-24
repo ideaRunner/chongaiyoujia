@@ -122,8 +122,8 @@ For how to train yolo to detect pets or detect your own objects, follow this [pa
 Modify the line self.offset = 16 in the ./darkflow/utils/loader.py file and replace with self.offset = 20.
 
 [^_^]:
-  Probelm remains:
-  NMS algorithm has not been implemented yet. 
-  Overfitting due to lack of large dataset and average class.
-  No label for human.
-  UI design.
+    Probelm remains:
+    NMS algorithm has not been implemented yet. 
+    Overfitting due to lack of large dataset and average class.
+    No label for human.
+    UI design.
