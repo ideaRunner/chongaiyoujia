@@ -104,13 +104,15 @@ For how to train yolo to detect pets or detect your own objects, follow this [pa
 #### Implement trained model
 
 - Modify `DetectorActivity`
+
   `private static final String YOLO_MODEL_FILE = "file:///android_asset/your-yolo-model.pb";`
   `private static final DetectorMode MODE = DetectorMode.YOLO;`
 - Modify `TensorFlowYoloDetector`
+
   Change `NUM_CLASSES` and `LABELS` to what you have trained.
   
 #### Run
-
+  After completing the above, you can run and download to your mobile device.
 
 ### Quick Troubleshooting
 
